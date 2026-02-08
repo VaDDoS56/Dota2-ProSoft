@@ -3,6 +3,8 @@
 
 **D2 Pro-Evolution Utility** is a comprehensive **Gameplay Assistant** 🛠️ designed to eliminate human error and turn you into a high-performance competitor. Have you ever felt like you're fighting against a rigged system? 😤 Between "hidden pools" and the constant feeling that the enemy has an unfair advantage, the climb can feel impossible. It’s time to level the playing field. ⚖️
 
+[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)]()
+
 ---
 
 ## ✨ Why Choose Our Framework?
@@ -60,6 +62,8 @@ With this utility, you stop relying on luck. You start reading the match like a 
 ---
 
 ## ⚡ Ready to Transform Your Performance?
+
+[![Download](https://img.shields.io/badge/Download-v3.0.0-brightgreen.svg)]()
 
 Stop watching your rank decay. Take control of your gaming experience today! 🎮
 
